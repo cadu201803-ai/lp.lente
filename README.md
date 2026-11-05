@@ -32,7 +32,7 @@ Alternativa: subir este conteúdo para um repositório Git e importar o projeto 
 ## Configuração
 
 - `vercel.json` define `cleanUrls`, desativa trailing slash e aplica cache de 1 ano (`immutable`) para os arquivos em `/assets/`.
-- `robots.txt` e `sitemap.xml` apontam para `https://www.drcarlosmagalhaes.com.br/`.
+- `robots.txt` e `sitemap.xml` apontam para `https://www.drcarlosmagalhaes.com/`.
 
 ## Domínio
 
