@@ -36,4 +36,4 @@ Alternativa: subir este conteúdo para um repositório Git e importar o projeto 
 
 ## Domínio
 
-Domínio de produção: **drcarlosmagalhaes.com.br**
+Domínio de produção: **drcarlosmagalhaes.com**
